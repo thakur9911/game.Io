@@ -11,7 +11,7 @@
 
 ## Live Demo 🔴
 
-<p>You can view a live demo by clicking <a href="https://armadillidiid.github.io/react-game-store/">HERE</a></p>
+<p>You can view a live demo by clicking <a href="#">HERE</a></p>
 
 ## Screenshots
 
@@ -34,7 +34,7 @@ To run the application on your local machine, follow these steps:
   1. Clone the repository to your local machine.
 
 ```sh
-git clone https://github.com/Armadillidiid/react-game-store.git
+git clone https://github.com/thakur9911/game.Io.git
 ```
 
 2. Install the required dependencies.
